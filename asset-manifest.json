@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mobile_app/static/css/main.46e19d89.css",
+    "main.js": "/mobile_app/static/js/main.edead8df.js",
+    "index.html": "/mobile_app/index.html",
+    "main.46e19d89.css.map": "/mobile_app/static/css/main.46e19d89.css.map",
+    "main.edead8df.js.map": "/mobile_app/static/js/main.edead8df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e19d89.css",
+    "static/js/main.edead8df.js"
+  ]
+}
